@@ -4,6 +4,8 @@
 | **Threat** | Anything — person, event, or condition — that has the potential to cause harm by exploiting a weakness in a system. | It's the danger — the thing that could happen to cause damage. |
 | **Vulnerability** | A weakness or flaw in a system that can be exploited by a threat to cause harm. | It's the weak spot that makes an attack possible. |
 <br><br>
+
+
 | Scenario | Category | Reasoning |
 | :--- | :--- | :--- |
 | An employee receives an email from "HR Department" asking to verify their login details via a link. | Threat | Phishing – an external malicious attempt to trick a user into revealing credentials. |
